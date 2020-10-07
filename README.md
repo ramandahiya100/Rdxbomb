@@ -1,4 +1,5 @@
-### Hi there 👋
+[![N|Solid](https://avatars0.githubusercontent.com/u/48455379?s=400&u=e28b5b0206f3fb6e4948b38c4a4edc4b9638fe06&v=4)](https://github.com/Chaudharyramandahiya)
+
 ## RdxBomb
 A Sms And Call Bomber Using Selenium
 
@@ -15,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Hi there 👋
 -->
