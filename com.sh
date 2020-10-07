@@ -1,0 +1,1 @@
+python3 rdxbomb.py 8171247161 10
